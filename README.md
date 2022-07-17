@@ -27,6 +27,10 @@ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend for building web applications.
 
+- :school: I like to study and learn something new.
+
+- :muscle: I also like good books and go to the gym.
+
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bogdan-morozyuk-839841162/)
 
 ---
